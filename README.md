@@ -1,10 +1,10 @@
-#HipHop [![Dependency Status](https://david-dm.org/hiphopapp/hiphop.svg?theme=shields.io)](https://david-dm.org/hiphopapp/hiphop)
+#HipHop [![Dependency Status]]
 
-![](http://gethiphop.net/images/screenshot.png)
+![](http://www.amongtech.com/wp-content/uploads/HipHop-app.jpg)
 
 ## Contribute
 
-Join us on IRC at `#hiphopapp` on freenode ([web access](http://webchat.freenode.net/?channels=hiphopapp)).
+Currently no IRC open. Only here to preserve data. 
 
 ## Dependencies
 
