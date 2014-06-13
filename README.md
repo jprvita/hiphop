@@ -1,4 +1,4 @@
-#HipHop [![Dependency Status]]
+#HipHopApp!
 
 ![](http://www.amongtech.com/wp-content/uploads/HipHop-app.jpg)
 
